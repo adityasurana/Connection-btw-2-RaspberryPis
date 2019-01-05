@@ -1,2 +1,6 @@
 # Connection-btw-2-RaspberryPis
-Sending data back and forth from two Raspberry Pi's
+What the project does?
+
+Why the project is useful?
+
+How users can get started with the project?
