@@ -1,4 +1,5 @@
-# Connection-btw-2-RaspberryPis
+# Raspberry Pi's Serial Connection
+
 
 # What the project does?
 
